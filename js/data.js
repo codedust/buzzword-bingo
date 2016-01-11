@@ -74,6 +74,12 @@ var JSONBingo = {"squares": [
         {"square": "Backbone"},
         {"square": "MANDA"},
         {"square": "100 MEEEEGAABIT"},
-        {"square": "Uplink"}
+        {"square": "Uplink"},
+        {"square": "Gipfeltreffen"},
+        {"square": "Förderverein Freie Netz(e|werke) e.V."},
+        {"square": "Journalist"},
+        {"square": "fertiger Artikel"},
+        {"square": "*Jemand hat ein Bingo*"},
+        {"square": "ffda-intern"}
     ]
 };
