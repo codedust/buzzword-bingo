@@ -1,7 +1,7 @@
 
 var headerText = "Bingo";
 
-var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/andir/HTML5-bingo/' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
