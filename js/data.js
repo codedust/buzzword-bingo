@@ -85,6 +85,9 @@ var JSONBingo = {"squares": [
         {"square": "Kooperation"},
         {"square": "Plen(i|a)"},
         {"square": "CPE"},
-        {"square": "UBNT"}
+        {"square": "UBNT"},
+        {"square": "Webscale"},
+        {"square": "MongoDB"},
+        {"square": "NodeJS"}
     ]
 };
