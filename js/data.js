@@ -37,5 +37,23 @@ var JSONBingo = {"squares": [
         {"square": "bereitstellen"},
         {"square": "*MisterY betritt den Raum*"},
         {"square": "Flyer"},
+        {"square": "Richtfunk"},
+        {"square": "841er"},
+        {"square": "direkt abfackeln"},
+        {"square": "Poolgeraete"},
+        {"square": "Core-Freifunk"},
+        {"square": "QoS"},
+        {"square": "Amateurfunker"},
+        {"square": "Hochhaus / HDA-Turm"},
+        {"square": "*md appears*"},
+        {"square": "mitwirken"},
+        {"square": "Linkstrecke"},
+        {"square": "heute wenig Zeit"},
+        {"square": "Latino"},
+        {"square": "ueberparteilich"},
+        {"square": "Stakeholder"},
+        {"square": "hexa informiert"},
+        {"square": "hexa ist Freifunk"},
+        {"square": "IRC"}
     ]
 };
