@@ -54,6 +54,26 @@ var JSONBingo = {"squares": [
         {"square": "Stakeholder"},
         {"square": "hexa informiert"},
         {"square": "hexa ist Freifunk"},
-        {"square": "IRC"}
+        {"square": "IRC"},
+        {"square": "beseb war Radfahren"},
+        {"square": "Freifunk Verein"},
+        {"square": "1500 Fluechtlinge"},
+        {"square": "RP-Darmstadt"},
+        {"square": "Eingeladen"},
+        {"square": "Verbaende"},
+        {"square": "Outreach"},
+        {"square": "Expertenrunde"},
+        {"square": "Bergstrasse"},
+        {"square": "*Schoko-Banane-Riegel*"},
+        {"square": "Bensheim"},
+        {"square": "Infoveranstaltung"},
+        {"square": "Perspektive"},
+        {"square": "bestpractice"},
+        {"square": "Nazco"},
+        {"square": "alles anzuenden"},
+        {"square": "Backbone"},
+        {"square": "MANDA"},
+        {"square": "100 MEEEEGAABIT"},
+        {"square": "Uplink"}
     ]
 };
