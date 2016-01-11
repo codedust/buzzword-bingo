@@ -80,6 +80,7 @@ var JSONBingo = {"squares": [
         {"square": "Journalist"},
         {"square": "fertiger Artikel"},
         {"square": "*Jemand hat ein Bingo*"},
-        {"square": "ffda-intern"}
+        {"square": "ffda-intern"},
+        {"square": "Finanzmittel"},
     ]
 };
