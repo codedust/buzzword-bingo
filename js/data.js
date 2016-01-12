@@ -88,6 +88,10 @@ var JSONBingo = {"squares": [
         {"square": "UBNT"},
         {"square": "Webscale"},
         {"square": "MongoDB"},
-        {"square": "NodeJS"}
+        {"square": "NodeJS"},
+        {"square": "Offloader"},
+        {"square": "Hotspot"},
+        {"square": "Null-Cipher"},
+        {"square": "Transportverschlüsselung"}"
     ]
 };
