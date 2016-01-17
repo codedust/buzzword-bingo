@@ -11,9 +11,7 @@
 }
 
 body {
-	background-color: #a1a1a1;
-	background-image: url('../img/wood.background.png');
-	font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
+	background-color: #eee;
 	text-rendering: optimizeLegibility;
 }
 
@@ -23,7 +21,11 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: none;
-}	
+}
+
+#header img {
+	width: 600px;
+}
 
 #header, #footer {
 	display: block;
