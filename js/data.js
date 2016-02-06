@@ -1,7 +1,7 @@
 
 var headerText = "<img src=\"img/footer_skyline_paths.svg\"></img>";
 
-var footerText = "<a href='https://github.com/andir/HTML5-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/andir/ffda-bingo/' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
