@@ -97,7 +97,8 @@ var JSONBingo = {"squares": [
         {"square": "Wahrheitsmonopol"},
         {"square": "Revierkampf"},
         {"square": "\"headroom\""},
-        {"square": "Kooperation"}
+        {"square": "Kooperation"},
+        {"square": "Leuchtturm"}
        
     ]
 };
