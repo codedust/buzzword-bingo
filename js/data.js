@@ -1,7 +1,4 @@
-
-var headerText = "<img src=\"img/footer_skyline_paths.svg\"></img>";
-
-var footerText = "<a href='https://github.com/andir/ffda-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/codedust/bullshit-bingo' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
@@ -49,6 +46,7 @@ var JSONBingo = {"squares": [
         {"square": "360°-Blick"},
         {"square": "zukunftsweisend"},
         {"square": "kundenorientiert"},
+        {"square": "Microsoft Security Development Lifecycle"},
         {"square": "Transportverschlüsselung"}
 
     ]
