@@ -1,7 +1,6 @@
 
 $(document).ready(function() {
   $('body').on('touchmove', false);
-  $('#header').append(headerText);
   $('#footer').append(footerText);
 
   shuffle(JSONBingo.squares);
