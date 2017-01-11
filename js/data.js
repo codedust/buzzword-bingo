@@ -14,7 +14,6 @@ var JSONBingo = {"squares": [
         {"square": "0day"},
         {"square": "XP Extended Support"},
         {"square": "Hacker"},
-        {"square": "gateway"},
         {"square": "Lifecycle"},
         {"square": "Cyberwar"},
         {"square": "outsourcen"},
@@ -48,7 +47,6 @@ var JSONBingo = {"squares": [
         {"square": "kundenorientiert"},
         {"square": "Microsoft Security Development Lifecycle"},
         {"square": "Backdors"},
-        {"square": "Smart ____"},
-        {"square": "Transportverschlüsselung"}
+        {"square": "Smart ____"}
     ]
 };
